@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "jwadmin"
     },
     "adminPasswordOrKey": {
-      "value": "GEN-SSH-PUB-KEY"
+      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA9d6FxwOTl5hMLR42gRR2gSSpxdtgOsaGdeCkBEVA0mZH/ax/XoCtK1549xt16J5YsJJMnLAFFlTYd9MH/Cl/AJTtCH+xGKlXBibqWwi/A620JiWzPyJcIBJAon4yZeYEdc/YK9OAgi7AO7/nG0bGeo8s3qW6QjwJJ4r3gMMT96pWy85i+x8W68nRIC303hJ6GNPgtNl/Tm1Vtobfw"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "ward.com"
     }
   }
 }
